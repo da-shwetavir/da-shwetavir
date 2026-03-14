@@ -51,14 +51,14 @@ I’m a **Data Analyst with prior experience as a Software Developer**, passiona
 
 ## 🚀 Featured Data Projects
 | Project | Skills | Description |
-|-------|------|------------|
-| 📈 Sales Performance Dashboard | SQL, Power BI | KPI tracking & revenue insights |
-| 👶 US Baby Names Analysis | MySQL, Power BI | Trend analysis by gender & year |
-| 🚗 Insurance Fraud Detection | SQL, Analytics | Identifying high-risk claims |
-| 🍕 Pizza Sales Analysis | Advanced SQL | Revenue & customer behavior |
+|-------------|------|------------|
+| [🏥Hospital Emergency](https://github.com/da-shwetavir/hospitaldashboard) |  𝐄𝐱𝐜𝐞𝐥 𝐏𝐨𝐰𝐞𝐫 𝐏𝐢𝐯𝐨𝐭 |𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲 | dynamic 𝐊𝐏𝐈𝐬 with 𝐃𝐀𝐗 measures |
+|[🚗Car-Sales-Report](https://github.com/da-shwetavir/Car-Sales-Report) | Power BI, Power Query Editor, Data Modeling |Revenue, top products, selling branches, and year-over-year trends |
+| [🍕Pizza-Sales-Report📊](https://github.com/da-shwetavir/Pizza-Sales-Report)   | Advanced SQL | Revenue & customer behavior |
+|        |         |       |
 
 ⬇️ **Scroll down to explore repositories**\
-[Projects](https://github.com/da-shwetavir/portfolio_projects/tree/main)
+[Portfolio - Projects](https://github.com/da-shwetavir/portfolio_projects/tree/main)
 
 
 ## 📄 Resume
@@ -87,7 +87,9 @@ I’m a **Data Analyst with prior experience as a Software Developer**, passiona
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=da-shwetavir&theme=tokyonight&hide_border=true"/>
 </p>
+<p align="center">© 2026 Shweta Vir | Data Analyst Portfolio</p>
 
+</footer>
 <!-- Dynamic Footer -->
 <p align="center">
  
