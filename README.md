@@ -31,7 +31,7 @@ I'm a **Data Analyst** based in **Toronto, Canada**, with a background in **Soft
 - 🔎 Experienced in **end-to-end analytics**: data collection, cleaning, transformation, modeling, and visualization
 - 📊 Skilled at building **executive-ready dashboards** in Power BI, Tableau, and Excel
 - 🤝 Strong communicator who translates technical findings into clear, actionable recommendations
-- 🇨🇦 Legally authorized to work in Canada | Open to full-time roles across the GTA and remote
+- 🇨🇦 Legally authorized to work in Canada | Open to full-time roles across the GTA and remote |🌏 Open to reolocation 
 
 ---
 
