@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C5364,0F2027&height=200&section=header&text=Shweta%20Vir&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Business%20Decisions&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Shweta%20Vir&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Business%20Decisions&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Badges Row -->
 <p>
@@ -138,7 +138,7 @@ I'm actively seeking **Data Analyst** roles in Canada. If you're working on inte
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C5364,0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 
 *"Without data, you're just another person with an opinion." — W. Edwards Deming*
 
